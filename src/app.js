@@ -19,8 +19,8 @@ function render() {
           <p class="soft-line">有一件很重要的事情想认真问你</p>
           <h1>你爱不爱我？</h1>
           <div class="answer-actions">
-            <button class="yes-button" type="button" data-accept>愿意</button>
-            <button class="no-button" type="button" data-shy>我再想想</button>
+            <button class="yes-button" type="button" data-accept>爱</button>
+            <button class="no-button" type="button" data-shy>不爱</button>
           </div>
         </div>
       </section>
